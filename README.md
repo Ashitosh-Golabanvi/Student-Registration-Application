@@ -2,5 +2,5 @@
 * Required Technologies:
     * Tolls: Visual Studio IDE & Xampp Controll Panel & Postman API Tester.
     * Frameworks: React-JS & Django.
-    * Packeges:
+    * Packeges: mysqlclient
           
