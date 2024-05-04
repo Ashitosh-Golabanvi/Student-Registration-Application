@@ -2,5 +2,5 @@
 * Required Technologies:
     * Tolls: Visual Studio IDE & Xampp Controll Panel & Postman API Tester.
     * Frameworks: React-JS & Django.
-    * Packeges:For Back-End: django-cors-headers, djangorestframework, dj-database-url, Mysqlclient, Axios.
+    * Packeges:For Back-End: django-cors-headers, djangorestframework, dj-database-url, Mysqlclient. For Front-End: Axios.
           
